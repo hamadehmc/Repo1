@@ -9,7 +9,7 @@ public class ATM {
         Scanner input = new Scanner(System.in);
         Account acct1 = new Account(101, "Mohamad Hamadeh");
         Account acct2 = new Account(102, "Seth Rogan");
-// Helloaaa
+// Helloaaap
         acct1.setBalance(50);
         acct1.setAnnualInterestRate(0.05);
         acct2.setBalance(1000);
